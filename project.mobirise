@@ -1,0 +1,334 @@
+{
+  "settings": {
+    "name": "Kevin De Broyer-clone",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.4.1",
+    "uniqCompNum": 12,
+    "versionPublish": "4.4.1",
+    "favicon": "",
+    "noImageResize": "true"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">WORK</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-success\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/23798403-10155832104597114-2136679262-o.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">Kevin </span><br><span style=\"font-weight: normal;\">De Broyer</span>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-5",
+          "_styles": {
+            "H1": {
+              "text-align": "center"
+            },
+            "P": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            },
+            "SPAN": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "100px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "16px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#000000",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "12px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Biography",
+          "text": "<p>Kevin De Broyer (Halle, April 1st, 1993) is a Belgian Artist, he is mostly known as a landscape painter and colorist. He currently lives and works in Blankenberge and Ghent. He's born into a family with 1 sister and 4 brothers and a lovely mother called Marleen. He first started painting when he joined the academy of fine arts in Bruges where he graduated in 2015,  and joined the Luca school of arts in 2016 where he is still studying.</p><p>\n</p><div>His works consists mostly out of realistic paintings with abstract elements but he never loses the realistic parts, Kevin explained \" For me a good abstract painter needs maturity, I'm not ready yet. For me a landscape is a medium to show my emotions and love of color without going full abstract\".</div><div><br></div><div> \n</div><div>His work is inspired by lots of artists mostly the Impressionists and abstract expressionists but also painters like Richard Diebenkorn, Wayne Thiebaud and David Hockney. \n</div><div><br></div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-9"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Works",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">WORK</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-success\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": false,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/23758213-10155832104667114-261394462-n.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23758213-10155832104667114-261394462-n-800x957.jpg",
+                "alt": "",
+                "caption": "Vlaamse Ardennen, oil on canvas, 2016",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23758039-1567754596636092-77549402-n.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23758039-1567754596636092-77549402-n-800x703.jpg",
+                "alt": "",
+                "caption": "Blankenbergse Duinen, oil on canvas, 2016",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23755854-10155832105017114-1629661554-n.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23755854-10155832105017114-1629661554-n-720x960.jpg",
+                "alt": "",
+                "caption": "Vlaamse ardennen #11, oil on canvas, 2017",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23758288-10155832104887114-241297318-n.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23758288-10155832104887114-241297318-n-800x778.jpg",
+                "alt": "",
+                "caption": "Blankenbergse duinen, oil on canvas, 2016",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23770382-10155832104792114-1882259475-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23770382-10155832104792114-1882259475-o-800x608.jpg",
+                "alt": "",
+                "caption": "Blankenbergse duinen #4, oil on canvas, 2016",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23768567-10155832104982114-932364660-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23768567-10155832104982114-932364660-o-800x600.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23798403-10155832104597114-2136679262-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23798403-10155832104597114-2136679262-o-800x533.jpg",
+                "alt": "",
+                "caption": "Vlaamse Ardennen, oil on canvas, 2017",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23772372-10155832104822114-1639252799-n.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23772372-10155832104822114-1639252799-n-633x960.jpg",
+                "alt": "",
+                "caption": "Vlaamse Ardennen, oil on canvas, 2016",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/landschap2.png",
+                "thumb": "@PROJECT_PATH@/assets/images/landschap2-719x774.png",
+                "alt": "",
+                "caption": "Vlaamse Ardennen, oil on canvas, 2016",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/landschap.png",
+                "thumb": "@PROJECT_PATH@/assets/images/landschap-800x691.png",
+                "alt": "",
+                "caption": "Vlaamse Ardennen, oil on canvas, 2016",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/triptiekbelgischelandschap.png",
+                "thumb": "@PROJECT_PATH@/assets/images/triptiekbelgischelandschap-800x363.png",
+                "alt": "",
+                "caption": "Triptiek Belgische Landschappen , oil on canvas, 2017",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-b"
+        }
+      ]
+    }
+  }
+}
